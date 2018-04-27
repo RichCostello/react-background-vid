@@ -19,5 +19,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://t-obi.github.io/background-video-example"
+  "homepage": "https://richcostello.github.io/react-background-vid/"
 }
